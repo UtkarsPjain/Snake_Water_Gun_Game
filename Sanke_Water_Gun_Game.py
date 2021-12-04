@@ -43,7 +43,7 @@ print(f"Computer chose {comp}")
 print(f"You chose {you}")
 
 if a == None:
-    print("The Game is a tie!")
+    print("The Game is a Tie!")
 elif a:
     print("You Win!")
 else:
